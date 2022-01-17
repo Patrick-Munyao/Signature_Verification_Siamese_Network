@@ -39,6 +39,7 @@ Steps implemented are as follows:
 
 
 e) **Relevance of the data**
+
 The dataset utilized in this study consist of train and test directories, each with image folders of forged and genuine signatures. The data was sourced from Kaggle.
 
 
