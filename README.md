@@ -44,5 +44,5 @@ The dataset utilized in this study consist of train and test directories, each w
 
 
 **Contributors**
-1. Patrick Munyao
-2. Eunice Gathoni
+1. Patrick-Munyao
+2. Eunice Wataaru - https://github.com/EWataaru
